@@ -26,6 +26,8 @@
     <Compile Include="registermoduul.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="135620.ico" />
+    <Content Include="135620.png" />
     <Content Include="icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
